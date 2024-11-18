@@ -1,0 +1,14 @@
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\bin\Debug\net8.0\baitapvenha.exe
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\bin\Debug\net8.0\baitapvenha.deps.json
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\bin\Debug\net8.0\baitapvenha.runtimeconfig.json
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\bin\Debug\net8.0\baitapvenha.dll
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\bin\Debug\net8.0\baitapvenha.pdb
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.AssemblyInfoInputs.cache
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.AssemblyInfo.cs
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.csproj.CoreCompileInputs.cache
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.dll
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\refint\baitapvenha.dll
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.pdb
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\baitapvenha.genruntimeconfig.cache
+C:\Users\Phat\source\repos\baitapvenha\baitapvenha\obj\Debug\net8.0\ref\baitapvenha.dll
